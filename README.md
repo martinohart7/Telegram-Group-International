@@ -1,5 +1,5 @@
 # Telegram-Group-International
-Awesome List Telegram Group International
+## List Telegram Group International related Programming
 
 + [The Art of Programming](https://t.me/theprogrammingart)
 + [Programming Tips](https://t.me/programmingtip)
@@ -12,6 +12,6 @@ Awesome List Telegram Group International
 + [Amazing PHP](https://t.me/phpme)
 + [iOS dev](https://t.me/iosdevio)
 
-## Listed By Martino Hart
-- Email: hart.industries7@gmail.com
-- Telegram: [@martinohart](https://t.me/martinohart)
+## Listed by *Martino Hart*
+- Email: [hart.industries7@gmail.com](hart.industries7@gmail.com)
+- Telegram: [@martinohart](https://web.telegram.org/#/im)
